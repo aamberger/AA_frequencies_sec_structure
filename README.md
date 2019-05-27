@@ -1,3 +1,5 @@
+## Team: Alexander Amberger, Magdalena Burjak, Matthias Gruber
+
 ## Transparent and reproducible organization of a computational project
 
 The goal of this course is to practice the organization of computational projects. A good organization allows to easily understand what was done and repeat it. Important learning objectives are a standardized project structure, the writing of driver scripts and the usage of a version control system for code development, backup and sharing with others.
